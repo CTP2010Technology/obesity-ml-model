@@ -8,6 +8,5 @@ It is a trained ml model that uses multiple techniques such as feature engineeri
 Instructions for installing and setting up the project. This typically includes:
 
 1. ** Clone the repository:**
-   '''bash
    git clone https://github.com/CTP2010Technology/obesity-ml-model.git
    cd repository

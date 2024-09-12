@@ -9,4 +9,4 @@ Instructions for installing and setting up the project. This typically includes:
 
 1. ** Clone the repository:**
    git clone https://github.com/CTP2010Technology/obesity-ml-model.git
-   obesity-ml-model
+  cd obesity-ml-model
